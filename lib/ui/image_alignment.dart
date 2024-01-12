@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// https://stackoverflow.com/questions/77792548/how-to-move-image-in-flutter-card-by-small-amount/77793310#77793310
 class ImageAlignment extends StatelessWidget {
   const ImageAlignment({super.key});
 
