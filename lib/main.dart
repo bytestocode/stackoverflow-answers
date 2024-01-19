@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'ui/expansion_tile_controller.dart';
-import 'ui/image_alignment.dart';
 
 void main() {
   runApp(const MyApp());
